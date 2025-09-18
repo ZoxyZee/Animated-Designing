@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaArrowUpLong } from "react-icons/fa6";
-
+// this is not the main page can be deleted if creates any problem
 
 function LandingPage() {
   return (
@@ -24,7 +24,7 @@ function LandingPage() {
         <div className='border-t-[1px] border-zinc-800 mt-32 flex justify-between items-center py-5 px-20'>
           {[
             "For Public and private companies", 
-          "From the first pitch to IPO"
+          "From the first pitch to IPOO"
             ].map((item, index)=>(
             <p className='text-md font-light tracking-tight leading-none'>{item}</p>
           ))}
