@@ -10,7 +10,7 @@ function Marquee() {
            we are ochi
         </motion.h1>
         <motion.h1 initial={{x: 0}} animate={{x: "-100%"}} transition={{ease: "linear", repeat: Infinity, duration: 5}} className='text-[12vw] leading-none uppercase pt-10 mb-10 font-bold'>
-           we are ochi
+           this is zoxy
         </motion.h1>
       </div>
     </div>

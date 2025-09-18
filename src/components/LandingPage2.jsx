@@ -24,14 +24,14 @@ function LandingPage() {
         <div className='border-t-[1px] border-zinc-800 mt-32 flex justify-between items-center py-5 px-20'>
           {[
             "For Public and private companies", 
-          "From the first pitch to IPPO"
+          "From the first pitch to IPO"
             ].map((item, index)=>(
             <p className='text-md font-light tracking-tight leading-none'>{item}</p>
           ))}
           <div className='start flex items-center gap-5'>
             <div className='px-5 py-2 border-[2px] border-zinc-500 font-light text-md uppercase rounded-full'>Start the Project</div>
             <div className='w-10 h- 10 flex items-center border-[2px] border-zinc-500 rounded-full'>
-              <span className='rotate-[47deg]'>
+              <span className='rotate-[45deg]'>
                 <FaArrowUpLong/>
               </span>
             </div>
