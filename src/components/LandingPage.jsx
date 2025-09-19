@@ -29,7 +29,7 @@ function LandingPage() {
             <p className='text-md font-light tracking-tight leading-none'>{item}</p>
           ))}
           <div className='start flex items-center gap-5'>
-            <div className='px-5 py-2 border-[2px] border-zinc-500 font-light text-md uppercase rounded-full'>Start the Project</div>
+            <div className='px-5 py-2 border-[2px] border-zinc-500 font-light text-md uppercase rounded-full'>Here we will be starting the Project</div>
             <div className='w-10 h- 10 flex items-center border-[2px] border-zinc-500 rounded-full'>
               <span className='rotate-[47deg]'>
                 <FaArrowUpLong/>
